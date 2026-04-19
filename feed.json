@@ -1,0 +1,74 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "山茶花小站",
+    "home_page_url": "https://windchaser170721.github.io/xinquan-blog/",
+    "feed_url": "https://windchaser170721.github.io/xinquan-blog/feed.json",
+    "description": "再次鼓起丧失的勇气",
+    "icon": "https://windchaser170721.github.io/xinquan-blog/DSC_1257.JPG",
+    "author": {
+        "name": "qiu",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://windchaser170721.github.io/xinquan-blog/posts/4-19",
+            "content_html": "<h2>DA3</h2>\n<p>::: info 核心<br>\n用一个尽量简单的 Transformer，统一处理单目深度、多视图几何、相机位姿估计，甚至进一步接到 3D Gaussian 表示上。从任意数量视角恢复 visu</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/xinquan-blog/posts/4-19\" target=\"_blank\">https://windchaser170721.github.io/xinquan-blog/posts/4-19</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/xinquan-blog/posts/4-19",
+            "title": "整理准备汇报",
+            "date_modified": "2026-04-19T00:00:00.000Z",
+            "date_published": "2026-04-19T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/xinquan-blog/posts/4-18",
+            "content_html": "<blockquote>\n<p>上次LoGeR没总结，下次吧（</p>\n</blockquote>\n<p>主线逐渐分成三层：第一层是给 VLA 注入几何先验，第二层是给 VLA 注入显式运动表征，第三层是直接学 3D world model / world action</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/xinquan-blog/posts/4-18\" target=\"_blank\">https://windchaser170721.github.io/xinquan-blog/posts/4-18</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/xinquan-blog/posts/4-18",
+            "title": "看具身3d",
+            "date_modified": "2026-04-18T00:00:00.000Z",
+            "date_published": "2026-04-18T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/xinquan-blog/posts/4-16",
+            "content_html": "<h2>VGGT</h2>\n<p>::: info 核心<br>\n把相机、深度、点图、跟踪特征统一进一个大 Transformer 里，直接多视图前向推理，尽量绕开传统 SfM/BA 那套慢速后处理<br>\n:::</p>\n<p><em><strong>输入</strong></em></p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/xinquan-blog/posts/4-16\" target=\"_blank\">https://windchaser170721.github.io/xinquan-blog/posts/4-16</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/xinquan-blog/posts/4-16",
+            "title": "看些3d",
+            "date_modified": "2026-04-16T00:00:00.000Z",
+            "date_published": "2026-04-16T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/xinquan-blog/posts/4-15",
+            "content_html": "<h2>H-WM</h2>\n<p>::: info 核心<br>\nH-WM 如何做到把符号推理的长程稳定性和视觉表征的感知 grounding结合起来？本质是“两层时间尺度 + 两层世界模型”<br>\n:::<br>\n逻辑世界模型本身，它本</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/xinquan-blog/posts/4-15\" target=\"_blank\">https://windchaser170721.github.io/xinquan-blog/posts/4-15</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/xinquan-blog/posts/4-15",
+            "title": "看些WM WAM",
+            "date_modified": "2026-04-15T00:00:00.000Z",
+            "date_published": "2026-04-15T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://windchaser170721.github.io/xinquan-blog/posts/April.plan",
+            "content_html": "<ul>\n<li>[ ] 检查毕设实验正常运行</li>\n<li>[ ] 调研WM WAM</li>\n<li>[ ] 继续调研VLA</li>\n<li>[ ] dvlm</li>\n<li>[ ] 复现一些项目，放四月总结</li>\n</ul>\n<p>&lt;mark style=&quot;background</p>\n<br/><p>访问 <a href=\"https://windchaser170721.github.io/xinquan-blog/posts/April.plan\" target=\"_blank\">https://windchaser170721.github.io/xinquan-blog/posts/April.plan</a> 阅读全文。</p>",
+            "url": "https://windchaser170721.github.io/xinquan-blog/posts/April.plan",
+            "title": "四月计划",
+            "date_modified": "2026-04-01T00:00:00.000Z",
+            "date_published": "2026-04-01T00:00:00.000Z",
+            "author": {
+                "name": "qiu",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

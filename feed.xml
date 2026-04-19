@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>山茶花小站</title>
+        <link>https://windchaser170721.github.io/xinquan-blog/</link>
+        <description>再次鼓起丧失的勇气</description>
+        <lastBuildDate>Sun, 19 Apr 2026 12:06:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>山茶花小站</title>
+            <url>https://windchaser170721.github.io/xinquan-blog/DSC_1257.JPG</url>
+            <link>https://windchaser170721.github.io/xinquan-blog/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2026 © qiu</copyright>
+        <atom:link href="https://windchaser170721.github.io/xinquan-blog/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[整理准备汇报]]></title>
+            <link>https://windchaser170721.github.io/xinquan-blog/posts/4-19</link>
+            <guid isPermaLink="false">https://windchaser170721.github.io/xinquan-blog/posts/4-19</guid>
+            <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>DA3</h2>
+<p>::: info 核心<br>
+用一个尽量简单的 Transformer，统一处理单目深度、多视图几何、相机位姿估计，甚至进一步接到 3D Gaussian 表示上。从任意数量视角恢复 visu</p>
+<br/><p>访问 <a href="https://windchaser170721.github.io/xinquan-blog/posts/4-19" target="_blank">https://windchaser170721.github.io/xinquan-blog/posts/4-19</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (qiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[看具身3d]]></title>
+            <link>https://windchaser170721.github.io/xinquan-blog/posts/4-18</link>
+            <guid isPermaLink="false">https://windchaser170721.github.io/xinquan-blog/posts/4-18</guid>
+            <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>上次LoGeR没总结，下次吧（</p>
+</blockquote>
+<p>主线逐渐分成三层：第一层是给 VLA 注入几何先验，第二层是给 VLA 注入显式运动表征，第三层是直接学 3D world model / world action</p>
+<br/><p>访问 <a href="https://windchaser170721.github.io/xinquan-blog/posts/4-18" target="_blank">https://windchaser170721.github.io/xinquan-blog/posts/4-18</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (qiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[看些3d]]></title>
+            <link>https://windchaser170721.github.io/xinquan-blog/posts/4-16</link>
+            <guid isPermaLink="false">https://windchaser170721.github.io/xinquan-blog/posts/4-16</guid>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>VGGT</h2>
+<p>::: info 核心<br>
+把相机、深度、点图、跟踪特征统一进一个大 Transformer 里，直接多视图前向推理，尽量绕开传统 SfM/BA 那套慢速后处理<br>
+:::</p>
+<p><em><strong>输入</strong></em></p>
+<br/><p>访问 <a href="https://windchaser170721.github.io/xinquan-blog/posts/4-16" target="_blank">https://windchaser170721.github.io/xinquan-blog/posts/4-16</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (qiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[看些WM WAM]]></title>
+            <link>https://windchaser170721.github.io/xinquan-blog/posts/4-15</link>
+            <guid isPermaLink="false">https://windchaser170721.github.io/xinquan-blog/posts/4-15</guid>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>H-WM</h2>
+<p>::: info 核心<br>
+H-WM 如何做到把符号推理的长程稳定性和视觉表征的感知 grounding结合起来？本质是“两层时间尺度 + 两层世界模型”<br>
+:::<br>
+逻辑世界模型本身，它本</p>
+<br/><p>访问 <a href="https://windchaser170721.github.io/xinquan-blog/posts/4-15" target="_blank">https://windchaser170721.github.io/xinquan-blog/posts/4-15</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (qiu)</author>
+        </item>
+        <item>
+            <title><![CDATA[四月计划]]></title>
+            <link>https://windchaser170721.github.io/xinquan-blog/posts/April.plan</link>
+            <guid isPermaLink="false">https://windchaser170721.github.io/xinquan-blog/posts/April.plan</guid>
+            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<ul>
+<li>[ ] 检查毕设实验正常运行</li>
+<li>[ ] 调研WM WAM</li>
+<li>[ ] 继续调研VLA</li>
+<li>[ ] dvlm</li>
+<li>[ ] 复现一些项目，放四月总结</li>
+</ul>
+<p>&lt;mark style=&quot;background</p>
+<br/><p>访问 <a href="https://windchaser170721.github.io/xinquan-blog/posts/April.plan" target="_blank">https://windchaser170721.github.io/xinquan-blog/posts/April.plan</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (qiu)</author>
+        </item>
+    </channel>
+</rss>
